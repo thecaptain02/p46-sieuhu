@@ -1,1 +1,1 @@
-https://randomplayertoupdate.boyphoco.pro/remote-assets
+{"remote-url":"https://randomplayertoupdate.boyphoco.pro/remote-assets","max-concurrent-task":10}
